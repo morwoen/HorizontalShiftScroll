@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("HorizontalShiftScroll")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Enables Horizontal Scrolling in VS2017 when holding shift")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Noxdew")]
 [assembly: AssemblyProduct("HorizontalShiftScroll")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]

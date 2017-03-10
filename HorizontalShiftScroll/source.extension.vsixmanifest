@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Id="HorizontalShiftScroll.Georgi Tsaklev.0dd3c43c-3104-49e8-99e3-426947404538" Version="1.0" Language="en-US" Publisher="Georgi Tsaklev" />
     <DisplayName>HorizontalShiftScroll</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">Enables Horizontal Scrolling in Visual Studio 2017 when holding shift</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />
